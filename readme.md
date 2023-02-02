@@ -45,7 +45,7 @@
 
 <h1>Overview</h1>
 
-### Get to know me
+<!-- ### Get to know me
 
 💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
 
@@ -55,7 +55,7 @@
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the weightlifting **
+⚡ Fun fact? **Find me behind the weightlifting ** -->
 
 ### My work
 
